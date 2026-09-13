@@ -1,0 +1,40 @@
+*.iml
+.gradle
+local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+*.aab
+
+# Android Studio / IntelliJ
+.idea/*
+!.idea/copyright
+!.idea/libraries
+.idea/caches
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+*.iws
+
+# Gradle
+.gradle/
+**/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Keystores
+*.jks
+*.keystore
+
+# Kotlin
+.kotlin/
+
+# Log/OS files
+*.log
+.DS_Store
